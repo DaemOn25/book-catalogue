@@ -9,6 +9,7 @@
     "ag-grid-community": "^23.1.0",
     "ag-grid-react": "^23.1.0",
     "bootstrap": "^4.4.1",
+    "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
